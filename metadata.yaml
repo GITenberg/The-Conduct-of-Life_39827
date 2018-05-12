@@ -1,0 +1,33 @@
+_repo: The-Conduct-of-Life_39827
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Emerson, Ralph Waldo
+    aliases:
+    - Emerson, R. W. (Ralph Waldo)
+    - Emerson, R. Waldo (Ralph Waldo)
+    - Emerson, Waldo
+    birthdate: 1803
+    deathdate: 1882
+    gutenberg_agent_id: '1071'
+    url: http://www.gutenberg.org/2009/agents/1071
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Waldo_Emerson
+description: ''
+gutenberg_issued: '2012-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life'
+- !lcc 'PS'
+tableOfContents: Fate -- Power -- Wealth -- Culture -- Behavior -- Worship -- Considerations
+  by the way -- Beauty -- Illusions.
+title: The Conduct of Life
+url: http://www.gutenberg.org/ebooks/39827
